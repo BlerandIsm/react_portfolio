@@ -37,6 +37,13 @@ function Portfolio() {
       liveUrl: "https://photoop.herokuapp.com//",
       gitHub: "https://github.com/BlerandIsm/photo-port"
     },
+    {
+      name: "The spot",
+      id: "thespot",
+      description: "A single page website for all art lovers to gather and communicate with each other. ",
+      liveUrl: "https://the-spot-group.herokuapp.com/",
+      gitHub: "https://github.com/BlerandIsm/the-spot"
+    },
     
   ]
   return (
